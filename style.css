@@ -1,0 +1,13 @@
+.centered{
+    display: block;
+    width:272px;
+    height:92px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+}
+
+.searchBar{
+    margin-top: 30px;
+    text-align: center;
+}
